@@ -2,24 +2,65 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Autonomous & Intelligent RObotics Lab @ PolyU Research Centre for Unmanned Autonomous Systems
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+# profile:
+#   align: right
+#   image: prof_pic.jpg
+#   image_circular: false # crops the image to make it circular
+#   more_info: >
+#     <p>555 your office number</p>
+#     <p>123 your address street</p>
+#     <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<!-- <br/> -->
+<!-- Include Bootstrap CSS (You can use a CDN link) -->
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"> -->
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<div id="imageCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ul class="carousel-indicators">
+    <li data-target="#imageCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#imageCarousel" data-slide-to="1"></li>
+    <li data-target="#imageCarousel" data-slide-to="2"></li>
+  </ul>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+  <!-- The slideshow -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="assets/img/1.jpg" alt="Image 1" class="d-block w-100">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/img/2.jpg" alt="Image 2" class="d-block w-100">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/img/3.jpg" alt="Image 3" class="d-block w-100">
+    </div>
+  </div>
+
+  <!-- Left and right controls -->
+  <a class="carousel-control-prev" href="#imageCarousel" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#imageCarousel" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
+</div>
+
+<!-- Include Bootstrap JS (You can use a CDN link) -->
+<!-- <script src="js_scripts/slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script> -->
+
+# About Us
+<div style="text-align: center;">
+        <img src="assets/img/group.png" alt="Description of image" style="max-width: 100%; height: auto;">
+</div>
+<div align="justify">
+Hi there Welcome to the Autonomous and Intelligent Robotics Lab (AIRO Lab)! We are one of the member of the Research Centre for Unmanned Autonomous System, of the Department of Aeronautical and Aviation Engineering of The Hong Kong Polytechnic University. Feel free to browse through our research paper <a href="/publications">(click me)</a> and code <a href="https://github.com/HKPolyU-UAV">(click me)</a>; drop us an email or issue for any discussion! <br/> <br/> <br/>
+</div>
