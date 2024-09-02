@@ -33,13 +33,13 @@ social: true # includes social icons at the bottom of the page
   <!-- The slideshow -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="assets/img/1.jpg" alt="Image 1" class="d-block w-100">
+      <img src="../assets/img/1.jpg" alt="Image 1" class="d-block w-100">
     </div>
     <div class="carousel-item">
-      <img src="assets/img/2.jpg" alt="Image 2" class="d-block w-100">
+      <img src="../assets/img/2.jpg" alt="Image 2" class="d-block w-100">
     </div>
     <div class="carousel-item">
-      <img src="assets/img/3.jpg" alt="Image 3" class="d-block w-100">
+      <img src="../assets/img/3.jpg" alt="Image 3" class="d-block w-100">
     </div>
   </div>
 
@@ -59,8 +59,8 @@ social: true # includes social icons at the bottom of the page
 
 # About Us
 <div style="text-align: center;">
-        <img src="assets/img/group.png" alt="Description of image" style="max-width: 100%; height: auto;">
+        <img src="../assets/img/group.png" alt="Description of image" style="max-width: 100%; height: auto;">
 </div>
 <div align="justify">
-Hi there Welcome to the Autonomous and Intelligent Robotics Lab (AIRO Lab)! We are one of the member of the Research Centre for Unmanned Autonomous System, of the Department of Aeronautical and Aviation Engineering of The Hong Kong Polytechnic University. Feel free to browse through our research paper <a href="/publications">(click me)</a> and code <a href="https://github.com/HKPolyU-UAV">(click me)</a>; drop us an email or issue for any discussion! <br/> <br/> <br/>
+Hi there lala Welcome to the Autonomous and Intelligent Robotics Lab (AIRO Lab)! We are one of the member of the Research Centre for Unmanned Autonomous System, of the Department of Aeronautical and Aviation Engineering of The Hong Kong Polytechnic University. Feel free to browse through our research paper <a href="/publications">(click me)</a> and code <a href="https://github.com/HKPolyU-UAV">(click me)</a>; drop us an email or issue for any discussion! <br/> <br/> <br/>
 </div>
