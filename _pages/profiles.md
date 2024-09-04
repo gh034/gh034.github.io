@@ -19,32 +19,32 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
 
-  # - align: left
-  #   image: ppl/by.jpg
-  #   content: ppl_pages/boyang.md
-  #   image_circular: true # crops the image to make it circular
-  #   more_info: >
-  #     <p>Prof. Chih-Yung Wen</p>
-  #     <p>123 your address street</p>
-  #     <p>Your City, State 12345</p>
+  - align: left
+    image: ppl/by.jpg
+    content: ppl_pages/boyang.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Prof. Chih-Yung Wen</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
       
-  # - align: left
-  #   image: ppl/bing.jpg
-  #   content: ppl_pages/bing.md
-  #   image_circular: true # crops the image to make it circular
-  #   more_info: >
-  #     <p>Prof. Chih-Yung Wen</p>
-  #     <p>123 your address street</p>
-  #     <p>Your City, State 12345</p>
+  - align: left
+    image: ppl/bing.jpg
+    content: ppl_pages/bing.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Prof. Chih-Yung Wen</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
 
-  # - align: left
-  #   image: ppl/tianqi.png
-  #   content: ppl_pages/tianqi.md
-  #   image_circular: true # crops the image to make it circular
-  #   more_info: >
-  #     <p>Prof. Chih-Yung Wen</p>
-  #     <p>123 your address street</p>
-  #     <p>Your City, State 12345</p>
+  - align: left
+    image: ppl/tianqi.png
+    content: ppl_pages/tianqi.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Prof. Chih-Yung Wen</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
 
 students:
   image:
