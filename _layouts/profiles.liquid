@@ -27,14 +27,7 @@ layout: page
             {% endcapture %}            
             {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
           {% endif %}
-          {% if profile.more_info %}
-            <div class="more-info">
-              {% comment %} {{ profile.name}}  {% endcomment %}
-              {% comment %} {{ sizes}}  {% endcomment %}
-            </div>
-          {% endif %}
         </div>
-
         <div class="clearfix">
           {% if profile.content %}
             {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
