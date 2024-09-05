@@ -1,5 +1,6 @@
 ## Dr. Bing Wang
-#### BEng (SZU), D.Phil. (Oxford)
+#### BEng, Shenzhen University (SZU)
+#### DPhil, Oxford University
 
 <div align="justify">
 Assistant Professor
