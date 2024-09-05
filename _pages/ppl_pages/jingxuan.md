@@ -1,4 +1,4 @@
-## Jingxuan Sun
+## Dr. Jingxuan Sun
 ##### 2018 PhD
 
 <div align="justify">
