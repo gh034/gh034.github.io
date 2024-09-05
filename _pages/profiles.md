@@ -134,4 +134,14 @@ students:
     content: ppl_pages/yuzhou.md
     image_circular: true
 
+alumnus:
+  - align: left
+    image: ppl/sunjianxuan.jpg
+    content: ppl_pages/jingxuan.md
+    image_circular: true 
+
+  - align: left
+    image: ppl/sunjianxuan.jpg
+    content: ppl_pages/jingxuan.md
+    image_circular: true 
 ---

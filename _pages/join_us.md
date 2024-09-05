@@ -51,5 +51,5 @@ nav_order: 8
 
 
 <div align="justify">
-<br/>We are always looking for outstanding and passionate students out there who are interested in the field of robotics and control. Feel free to contact us via <a href="cywen@polyu.edu.hk">email</a>, or drop a message to our lab members!
+<br/>We are always looking for outstanding and passionate students out there who are interested in the field of robotics and control. Feel free to contact us via email, or drop a message to our lab members!
 </div>
