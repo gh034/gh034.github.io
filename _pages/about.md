@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 subtitle: Autonomous & Intelligent RObotics Lab @ PolyU Research Centre for Unmanned Autonomous Systems
 
