@@ -1,8 +1,8 @@
 ## Tse Kwai Wa Sky
-#### BEng (CUHK)
+##### BEng, The Chinese University of Hong Kong (CUHK)
 
 <div align="justify">
-PhD Candidate
+<br/>PhD Candidate
 <br/><br/>
 Sep 2019 - Present
 <br/><br/>

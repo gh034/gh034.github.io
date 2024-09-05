@@ -1,8 +1,8 @@
 ## Hiu Ching Cheung Athena
-#### BEng, The Hong Kong Polytechnic University (HKPolyU)
+##### BEng, The Hong Kong Polytechnic University (HKPolyU)
 
 <div align="justify">
-MPhil Candidate 
+<br/>MPhil Candidate 
 <br/><br/>
 Sep 2022 - Present
 <br/><br/>

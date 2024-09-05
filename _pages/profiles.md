@@ -34,10 +34,14 @@ profiles:
     image_circular: true # crops the image to make it circular
   
   - align: left
+    image: ppl/liyu.png
+    content: ppl_pages/liyu.md
+    image_circular: true
+  
+  - align: left
     image: ppl/kangliu.png
     content: ppl_pages/kangliu.md
     image_circular: true
-    
 
 students:
   - align: left
@@ -81,11 +85,6 @@ students:
     image_circular: true
 
   - align: left
-    image: ppl/haru.png
-    content: ppl_pages/haru.md
-    image_circular: true
-
-  - align: left
     image: ppl/huyang.png
     content: ppl_pages/huyang.md
     image_circular: true
@@ -93,6 +92,16 @@ students:
   - align: left
     image: ppl/athena.png
     content: ppl_pages/athena.md
+    image_circular: true
+  
+  - align: left
+    image: ppl/haru.png
+    content: ppl_pages/haru.md
+    image_circular: true
+
+  - align: left
+    image: ppl/peiyuan.png
+    content: ppl_pages/peiyuan.md
     image_circular: true
 
   - align: left
@@ -111,8 +120,8 @@ students:
     image_circular: true
 
   - align: left
-    image: ppl/rugang.png
-    content: ppl_pages/rugang.md
+    image: ppl/rg.png
+    content: ppl_pages/rg.md
     image_circular: true
 
   - align: left

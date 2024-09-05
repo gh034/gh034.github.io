@@ -1,9 +1,9 @@
 ## Yifei Zhang
-#### BEng, Southwest University (SWU)
-#### MEng, Southwest University (SWU)
+##### BEng, Southwest University (SWU)
+##### MEng, Southwest University (SWU)
 
 <div align="justify">
-PhD Student
+<br/>PhD Student
 <br/><br/>
 Sep 2024 - Present
 <br/><br/>

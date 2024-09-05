@@ -1,8 +1,9 @@
 ## Zhengyan Zhang
-#### BEng (Nanjing Tech), MEng (HIT)
+##### BEng, Nanjing Tech University
+##### MEng, Harbin Institute of Technology (HIT)
 
 <div align="justify">
-PhD Student
+<br/>PhD Student
 <br/><br/>
 Jan 2024 - Present
 <br/><br/>

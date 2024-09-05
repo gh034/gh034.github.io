@@ -1,8 +1,8 @@
 ## Yuzhou Li
-#### BEng, University of Alberta
+##### BEng, University of Alberta
 
 <div align="justify">
-MPhil Student
+<br/>MPhil Student
 <br/><br/>
 Sep 2024 - Present
 <br/><br/>
