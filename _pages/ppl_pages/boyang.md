@@ -1,5 +1,7 @@
 ## Dr. Boyang Li
-#### BEng (NPU), MSc (NPU), PhD (HKPolyU)
+#### BEng, Northwestern Polytechnical University (NPU)
+#### MSc,  Northwestern Polytechnical University (NPU)
+#### PhD, The Hong Kong Polytechnic University (HKPolyU)
 
 <div align="justify">
 Lecturer in Aerospace Systems Engineering, Leader of Autonomous Aerial Systems Group

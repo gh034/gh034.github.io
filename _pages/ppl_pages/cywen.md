@@ -1,5 +1,7 @@
 ## Prof. Chih-Yung Wen
-#### BEng (NTU Taiwan), MSc (Caltech), PhD (Caltech)
+#### BEng, National Taiwan University (NTU)
+#### MSc, Caltech
+#### PhD, Caltech
 
 <div align="justify">
 Head and Chair Professor of Aeronautical Engineering, Director of Research Centre for Unmanned Autonomous System, Associate Director of Research Institute for Sports Science and Technology, Leader of Autonomous & Intelligent Robotics Lab
