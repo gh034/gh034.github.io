@@ -105,7 +105,7 @@ students:
     image_circular: true
 
   - align: left
-    image: ppl/yuanbo.png
+    image: ppl/yb.png
     content: ppl_pages/yuanbo.md
     image_circular: true
 
