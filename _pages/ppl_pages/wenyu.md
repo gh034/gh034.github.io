@@ -1,8 +1,9 @@
 ## Wenyu Yang
-#### BEng (OUC), MSc (HIT)
+##### BEng, Ocean University of China (OUC)
+##### Msc, Harbin Institute of Technology (HIT)
 
 <div align="justify">
-PhD Candidate 
+<br/>PhD Candidate 
 <br/><br/>
 Sep 2022 - Present
 <br/><br/>

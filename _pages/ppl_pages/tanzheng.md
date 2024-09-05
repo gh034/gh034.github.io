@@ -1,8 +1,8 @@
 ## Zheng Tan
-#### MSc (CAUC)
+##### MSc, Civil Aviation University of China (CAUC)
 
 <div align="justify">
-PhD Candidate (NPU HKPolyU Dual-PhD)
+<br/>PhD Candidate (NPU HKPolyU Dual-PhD)
 <br/><br/>
 Jan 2024 - Present
 <br/><br/>

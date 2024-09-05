@@ -1,8 +1,9 @@
 ## Yuanbo Xue
-#### BEng (NUAA), MSc (BUAA)
+##### BEng, Nanjing University of Aeronautics and Astronautics (NUAA)
+##### MSc, Beihang
 
 <div align="justify">
-PhD Student
+<br/>PhD Student
 <br/><br/>
 Sep 2023 - Present
 <br/><br/>

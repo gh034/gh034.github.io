@@ -1,8 +1,8 @@
 ## Ho Wang Tong Canning
-#### BEng, The Hong Kong Polytechnic University (HKPolyU)
+##### BEng, The Hong Kong Polytechnic University (HKPolyU)
 
 <div align="justify">
-PhD Candidate
+<br/>PhD Candidate
 <br/><br/>
 Sep 2021 - Present
 <br/><br/>

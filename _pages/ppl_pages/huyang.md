@@ -1,8 +1,8 @@
 ## Yang Hu
-#### BEng, University of Sydney
+##### BEng, University of Sydney
 
 <div align="justify">
-MPhil Candidate 
+<br/>MPhil Candidate 
 <br/><br/>
 Sep 2022 - Present
 <br/><br/>
