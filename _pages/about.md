@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Autonomous & Intelligent RObotics Lab @ PolyU Research Centre for Unmanned Autonomous Systems
+subtitle: Autonomous & Intelligent RObotics Lab @ PolyU Research Centre for Unmanned Autonomous Systems 
 
 # profile:
 #   align: right
@@ -22,35 +22,6 @@ social: true # includes social icons at the bottom of the page
 <!-- Include Bootstrap CSS (You can use a CDN link) -->
 <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"> -->
 
-<div id="imageCarousel" class="carousel slide" data-ride="carousel">
-  <!-- Indicators -->
-  <ul class="carousel-indicators">
-    <li data-target="#imageCarousel" data-slide-to="0" class="active"></li>
-    <li data-target="#imageCarousel" data-slide-to="1"></li>
-    <li data-target="#imageCarousel" data-slide-to="2"></li>
-  </ul>
-
-  <!-- The slideshow -->
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="../assets/img/1.jpg" alt="Image 1" class="d-block w-100">
-    </div>
-    <div class="carousel-item">
-      <img src="../assets/img/2.jpg" alt="Image 2" class="d-block w-100">
-    </div>
-    <div class="carousel-item">
-      <img src="../assets/img/3.jpg" alt="Image 3" class="d-block w-100">
-    </div>
-  </div>
-
-  <!-- Left and right controls -->
-  <a class="carousel-control-prev" href="#imageCarousel" data-slide="prev">
-    <span class="carousel-control-prev-icon"></span>
-  </a>
-  <a class="carousel-control-next" href="#imageCarousel" data-slide="next">
-    <span class="carousel-control-next-icon"></span>
-  </a>
-</div>
 
 <!-- Include Bootstrap JS (You can use a CDN link) -->
 <!-- <script src="js_scripts/slim.min.js"></script>
@@ -63,4 +34,36 @@ social: true # includes social icons at the bottom of the page
 </div>
 <div align="justify">
 Welcome to the Autonomous and Intelligent Robotics Lab (AIRO Lab)! We are one of the member of the Research Centre for Unmanned Autonomous System, of the Department of Aeronautical and Aviation Engineering of The Hong Kong Polytechnic University. Feel free to browse through our research paper <a href="/publications">(click me)</a> and code <a href="https://github.com/HKPolyU-UAV">(click me)</a>; drop us an email or issue for any discussion! <br/> <br/> <br/>
+</div>
+
+
+
+<div id="imageCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ul class="carousel-indicators">
+    <li data-target="#imageCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#imageCarousel" data-slide-to="1"></li>
+    <li data-target="#imageCarousel" data-slide-to="2"></li>
+  </ul>
+
+  <!-- The slideshow -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="../assets/img/landing.png" alt="Image 1" class="d-block w-100">
+    </div>
+    <div class="carousel-item">
+      <img src="../assets/img/crack_inspection.png" alt="Image 2" class="d-block w-100">
+    </div>
+    <div class="carousel-item">
+      <img src="../assets/img/4uavs.jpeg" alt="Image 3" class="d-block w-100">
+    </div>
+  </div>
+
+  <!-- Left and right controls -->
+  <a class="carousel-control-prev" href="#imageCarousel" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#imageCarousel" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
 </div>
