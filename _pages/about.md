@@ -37,6 +37,13 @@ Welcome to the Autonomous and Intelligent Robotics Lab (AIRO Lab)! We are one of
 </div>
 
 
+<style>
+  .carousel-inner img {
+    width: 100%;
+    height: 500px; /* Set a fixed height */
+    object-fit: cover; /* This ensures the image covers the container without stretching */
+  }
+</style>
 
 <div id="imageCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
