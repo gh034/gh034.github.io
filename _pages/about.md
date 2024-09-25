@@ -62,7 +62,7 @@ Welcome to the Autonomous and Intelligent Robotics Lab (AIRO Lab)! We are one of
       <img src="../assets/img/crack_inspection.png" alt="Image 2" class="d-block w-100">
     </div>
     <div class="carousel-item">
-      <img src="../assets/img/4uavs.jpeg" alt="Image 3" class="d-block w-100">
+      <img src="../assets/img/jbl_tail.png" alt="Image 3" class="d-block w-100">
     </div>
   </div>
 
@@ -74,3 +74,6 @@ Welcome to the Autonomous and Intelligent Robotics Lab (AIRO Lab)! We are one of
     <span class="carousel-control-next-icon"></span>
   </a>
 </div>
+
+
+<br>
