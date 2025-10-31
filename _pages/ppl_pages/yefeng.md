@@ -4,7 +4,7 @@
 <div align="justify">
 <br/>PhD Candidate (HIT HKPolyU Dual-PhD)
 <br/><br/>
-Sep 2021 - Present
+Sep 2021 - July 2025
 <br/><br/>
 Research Interest: <br/>
 Control Theory, Reinforcement Learning, Path Planning, Quadrotor, Multi-Agent Systems
