@@ -47,26 +47,6 @@ profiles:
 
 students:
   - align: left
-    image: ppl/luyanze.jpg
-    content: ppl_pages/luyanze.md
-    image_circular: true
-
-  - align: left
-    image: ppl/xiongwei.jpg
-    content: ppl_pages/xiongwei.md
-    image_circular: true
-
-  - align: left
-    image: ppl/canning.jpg
-    content: ppl_pages/canning.md
-    image_circular: true
-
-  - align: left
-    image: ppl/tao.png
-    content: ppl_pages/tao.md
-    image_circular: true
-
-  - align: left
     image: ppl/wenyu.jpg
     content: ppl_pages/wenyu.md
     image_circular: true
@@ -75,17 +55,22 @@ students:
     image: ppl/qihang.png
     content: ppl_pages/qihang.md
     image_circular: true
-  
+
+  - align: left
+    image: ppl/tao.png
+    content: ppl_pages/tao.md
+    image_circular: true
+
+  - align: left
+    image: ppl/canning.jpg
+    content: ppl_pages/canning.md
+    image_circular: true
+
   - align: left
     # image: ppl/haru.png
     image: ppl/huhaochen.jpg
     content: ppl_pages/haru.md
     image_circular: true
-
-  # - align: left
-  #   image: ppl/peiyuan.png
-  #   content: ppl_pages/peiyuan.md
-  #   image_circular: true
 
   - align: left
     image: ppl/yb.png
@@ -106,7 +91,7 @@ students:
     image: ppl/rg.png
     content: ppl_pages/rg.md
     image_circular: true
-
+  
   - align: left
     image: ppl/yifei.png
     content: ppl_pages/yifei.md
@@ -116,6 +101,26 @@ students:
     image: ppl/yuzhou.png
     content: ppl_pages/yuzhou.md
     image_circular: true
+
+  - align: left
+    image: ppl/xiongwei.jpg
+    content: ppl_pages/xiongwei.md
+    image_circular: true
+
+  - align: left
+    image: ppl/luyanze.jpg
+    content: ppl_pages/luyanze.md
+    image_circular: true
+
+  - align: left
+    image: ppl/huangjiubo.jpg
+    content: ppl_pages/huangjiubo.md
+    image_circular: true
+
+  # - align: left
+  #   image: ppl/peiyuan.png
+  #   content: ppl_pages/peiyuan.md
+  #   image_circular: true
 
 alumnus:
   - align: left
@@ -134,7 +139,7 @@ alumnus:
     image_circular: true
 
   - align: left
-    image: ppl/sky.jpg
+    image: ppl/sky_new.jpg
     content: ppl_pages/sky.md
     image_circular: true
 
