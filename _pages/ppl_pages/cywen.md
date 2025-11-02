@@ -1,9 +1,9 @@
 ## Prof. Chih-Yung Wen
+##### <strong>Leader of AIRO Lab</strong>
 ##### Chair Professor of AAE
 ##### Director of Research Centre for Unmanned Autonomous System (RCUAS)
 ##### Core Member of Research Centre for Low Altitude Economy (RCLAE)
 ##### Associate Director of Research Institute for Sports Science and Technology
-##### Leader of AIRO Lab
 ##### Email: cywen@polyu.edu.hk
 <!-- ##### BEng, National Taiwan University (NTU)
 ##### MSc, Caltech
