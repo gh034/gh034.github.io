@@ -1,4 +1,4 @@
-## Dr. Ran Duan
+## Dr. Ran Duan (段然)
 ##### 2022 PhD
 
 <div align="justify">

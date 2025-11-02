@@ -1,5 +1,5 @@
-## Yanze Lu
-##### Research Assistant
+## Yanze Lu (路琰泽)
+##### Research Assistant (Nov. 2025 -- Present)
 ##### Email: luyz3@alumni.sysu.edu.cn
 
 <div align="justify">

@@ -1,5 +1,5 @@
-## Yang Hu
-##### BEng, University of Sydney
+## Yang Hu (胡杨)
+<!-- ##### BEng, University of Sydney -->
 
 <div align="justify">
 <br/>MPhil Candidate 
