@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description: members of the AIRO Lab. 
+description: Members of the AIRO Lab. 
 nav: true
 nav_order: 7
 
@@ -13,22 +13,22 @@ profiles:
     name: Prof. Chih-Yung Wen
     image: ppl/cywen.jpg
     content: ppl_pages/cywen.md
-    image_circular: true # crops the image to make it circular
+    image_circular: true
 
   - align: left
     image: ppl/by.jpg
     content: ppl_pages/boyang.md
-    image_circular: true # crops the image to make it circular
+    image_circular: true
     
   - align: left
     image: ppl/bing.jpg
     content: ppl_pages/bing.md
-    image_circular: true # crops the image to make it circular
+    image_circular: true
     
   - align: left
     image: ppl/tianqi.png
     content: ppl_pages/tianqi.md
-    image_circular: true # crops the image to make it circular
+    image_circular: true
   
   - align: left
     image: ppl/liyu.png

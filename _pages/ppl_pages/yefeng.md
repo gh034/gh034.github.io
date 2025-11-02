@@ -6,5 +6,5 @@
 
 <div align="justify">
 <br/><br/>
-Dr. Yefeng Yang received his B.S. degree in Control Science and Engineering from <strong>Harbin Institute of Technology</strong> (HIT), Harbin, China, in 2017, and Ph.D. degree in Aviation Engineering from the <strong>Hong Kong Polytechnic University (Dual-PhD with HIT)</strong> in 2025. His research interests include Control Theory, Reinforcement Learning, Path Planning, Quadrotor, Multi-Agent Systems
+Dr. Yefeng Yang received his B.S. degree in Control Science and Engineering from Harbin Institute of Technology (HIT), Harbin, China, in 2017, and Ph.D. degree in Aviation Engineering from the Hong Kong Polytechnic University (Dual-PhD with HIT) in 2025. His research interests include Control Theory, Reinforcement Learning, Path Planning, Quadrotor, Multi-Agent Systems
 </div>
