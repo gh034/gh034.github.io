@@ -14,20 +14,17 @@ profiles:
     image: ppl/cywen.jpg
     content: ppl_pages/cywen.md
     image_circular: true # crops the image to make it circular
-    
 
   - align: left
     image: ppl/by.jpg
     content: ppl_pages/boyang.md
     image_circular: true # crops the image to make it circular
     
-      
   - align: left
     image: ppl/bing.jpg
     content: ppl_pages/bing.md
     image_circular: true # crops the image to make it circular
     
-
   - align: left
     image: ppl/tianqi.png
     content: ppl_pages/tianqi.md
@@ -43,22 +40,22 @@ profiles:
     content: ppl_pages/kangliu.md
     image_circular: true
 
-students:
-  - align: left
-    image: ppl/sky.jpg
-    content: ppl_pages/sky.md
-    image_circular: true
-
-  - align: left
-    image: ppl/bailun.png
-    content: ppl_pages/bailun.md
-    image_circular: true
-  
   - align: left
     image: ppl/yefeng.jpg
     content: ppl_pages/yefeng.md
     image_circular: true
-  
+
+students:
+  - align: left
+    image: ppl/luyanze.jpg
+    content: ppl_pages/luyanze.md
+    image_circular: true
+
+  - align: left
+    image: ppl/xiongwei.jpg
+    content: ppl_pages/xiongwei.md
+    image_circular: true
+
   - align: left
     image: ppl/canning.jpg
     content: ppl_pages/canning.md
@@ -78,31 +75,17 @@ students:
     image: ppl/qihang.png
     content: ppl_pages/qihang.md
     image_circular: true
-
-  - align: left
-    image: ppl/patty.png
-    content: ppl_pages/patty.md
-    image_circular: true
-
-  - align: left
-    image: ppl/huyang.png
-    content: ppl_pages/huyang.md
-    image_circular: true
   
   - align: left
-    image: ppl/athena.png
-    content: ppl_pages/athena.md
-    image_circular: true
-  
-  - align: left
-    image: ppl/haru.png
+    # image: ppl/haru.png
+    image: ppl/huhaochen.jpg
     content: ppl_pages/haru.md
     image_circular: true
 
-  - align: left
-    image: ppl/peiyuan.png
-    content: ppl_pages/peiyuan.md
-    image_circular: true
+  # - align: left
+  #   image: ppl/peiyuan.png
+  #   content: ppl_pages/peiyuan.md
+  #   image_circular: true
 
   - align: left
     image: ppl/yb.png
@@ -135,6 +118,31 @@ students:
     image_circular: true
 
 alumnus:
+  - align: left
+    image: ppl/patty.png
+    content: ppl_pages/patty.md
+    image_circular: true
+
+  - align: left
+    image: ppl/huyang.png
+    content: ppl_pages/huyang.md
+    image_circular: true
+  
+  - align: left
+    image: ppl/athena.png
+    content: ppl_pages/athena.md
+    image_circular: true
+
+  - align: left
+    image: ppl/sky.jpg
+    content: ppl_pages/sky.md
+    image_circular: true
+
+  - align: left
+    image: ppl/bailun.png
+    content: ppl_pages/bailun.md
+    image_circular: true
+
   - align: left
     image: ppl/chenhan.png
     content: ppl_pages/chenhan.md
