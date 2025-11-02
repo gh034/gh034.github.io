@@ -1,11 +1,9 @@
-## Tao Huang
-##### BEng, Harbin Institute of Technology (HIT)
+## Tao Huang (黄涛)
+##### PhD Candidate (Dual-PhD with HIT)
+<!-- ##### BEng, Harbin Institute of Technology (HIT) -->
 
 <div align="justify">
-<br/>PhD Candidate (HIT HKPolyU Dual-PhD)
+Step. 2022 -- present
 <br/><br/>
-Sep 2022 - Present
-<br/><br/>
-Research Interest: <br/>
-Control Theory, Reinforcement Learning, Quadrotor
+Tao Huang received his BEng degree in Precision Instruments from <strong>Harbin Engineering University</strong>, China in 2018. He is now a joint PhD student in Control Science and Engineering, <strong>Harbin Institute of Technology</strong> (HIT) and <strong>the Hong Kong Polytehnic University</strong>. His research interest includes Control Theory, Reinforcement Learning, Quadrotor Control.
 </div>
