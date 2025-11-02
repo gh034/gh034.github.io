@@ -1,9 +1,10 @@
-## Dr. Bing Wang
-##### BEng, Shenzhen University (SZU)
-##### DPhil, Oxford University
+## Dr. Bing Wang (王冰)
+##### Assistant Professor
+##### Email: bingwang@polyu.edu.hk
+<!-- ##### BEng, Shenzhen University (SZU) -->
+<!-- ##### DPhil, Oxford University -->
 
 <div align="justify">
-<br/>Assistant Professor
 <br/><br/>
-Dr Bing WANG is an Assistant Professor in the Department of Aeronautical and Aviation Engineering at The Hong Kong Polytechnic University. He obtained his DPhil/PhD degree in 2022 from the Department of Computer Science at the University of Oxford. His research interests broadly lie in the design of intelligent perception solutions for autonomous systems, and the development of reliable 3D scene understanding algorithms on mobile robotics operating in the real world.
+Dr Bing Wang received the DPhil degree from the Department of Computer Science, University of Oxford, Oxford, U.K., in 2022. He is an Assistant Professor in robotics and autonomous systems with the Department of Aeronautics and Aviation Engineering, The Hong Kong Polytechnic University, Hong Kong. His research interests include forefront of spatial intelligence, a dynamic field focused on advancing human-level 3-D spatial perception and world understanding for mobile robotics, and enhance the reliability, intelligence, and security of intelligent machines in real-world environments.
 </div>

@@ -4,5 +4,5 @@
 
 <div align="justify">
 <br/><br/>
-Tao Huang received his BEng degree in Precision Instruments from <strong>Harbin Engineering University</strong>, China in 2018. He is now a joint PhD student in Control Science and Engineering, <strong>Harbin Institute of Technology</strong> (HIT) and <strong>the Hong Kong Polytehnic University</strong>. His research interest includes Control Theory, Reinforcement Learning, Quadrotor Control.
+Tao Huang received his BEng degree in Precision Instruments from Harbin Engineering University, China in 2018. He is now a joint PhD student in Control Science and Engineering, Harbin Institute of Technology (HIT) and the Hong Kong Polytehnic University. His research interest includes Control Theory, Reinforcement Learning, Quadrotor Control.
 </div>

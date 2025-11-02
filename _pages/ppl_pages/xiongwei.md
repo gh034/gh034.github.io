@@ -1,5 +1,5 @@
 ## Wei Xiong (熊玮)
-##### PhD student (Dual Award with Tong Ji University, Sept. 2025 -- Present)
+##### PhD student (Dual-PhD with Tong Ji University, Sept. 2025 -- Present)
 ##### Email: wei233.xiong@connect.polyu.hk
 
 <div align="justify">

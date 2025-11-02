@@ -108,6 +108,11 @@ students:
     image_circular: true
 
   - align: left
+    image: ppl/liuzongjie.jpg
+    content: ppl_pages/liuzongjie.md
+    image_circular: true
+
+  - align: left
     image: ppl/luyanze.jpg
     content: ppl_pages/luyanze.md
     image_circular: true
@@ -116,11 +121,6 @@ students:
     image: ppl/huangjiubo.jpg
     content: ppl_pages/huangjiubo.md
     image_circular: true
-
-  # - align: left
-  #   image: ppl/peiyuan.png
-  #   content: ppl_pages/peiyuan.md
-  #   image_circular: true
 
 alumnus:
   - align: left

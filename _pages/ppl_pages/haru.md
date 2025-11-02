@@ -6,5 +6,5 @@
 
 <div align="justify">
 <br/><br/>
-Haochen Hu received his BS. degree in Aerospace Engineering from <strong>Nanjing University of Aeronautics and Astronautics</strong> (NUAA), Nanjing, China, in 2019, and M.Sc. degree in Mechanical Engineering from <strong>the Hong Kong Polytechnic University</strong> (PolyU) in 2023, where he is pursuiting the P.hD. degree now. His research interests include Underwater Vision, 3D Reconstruction and Scene Understanding.
+Haochen Hu received his BS. degree in Aerospace Engineering from Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China, in 2019, and M.Sc. degree in Mechanical Engineering from the Hong Kong Polytechnic University (PolyU) in 2023, where he is pursuiting the P.hD. degree now. His research interests include Underwater Vision, 3D Reconstruction and Scene Understanding.
 </div>
