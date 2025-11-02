@@ -1,11 +1,9 @@
-## Patrick Li-Yu Lo
-##### BEng, The Hong Kong Polytechnic University (HKPolyU)
+## Patrick Li-Yu Lo (羅立宇)
+##### PhD Student of Duke University
+##### Email: patrick.lo@duke.edu
+<!-- ##### BEng, The Hong Kong Polytechnic University (HKPolyU) -->
 
 <div align="justify">
-<br/>MPhil Candidate
 <br/><br/>
-Sep 2022 - Present
-<br/><br/>
-Research Interest: <br/>
-Heterogeneous Systems, Landing Systems, UUV
+他巨牛逼，看这里就行 <a href="https://pattylo.github.io/">我最牛逼</a>
 </div>
