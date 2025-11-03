@@ -1,9 +1,9 @@
 ## Dr. Bing Wang (王冰)
-##### Assistant Professor
+##### Assistant Professor in Robotics and Autonomous Systems
 ##### Email: bingwang@polyu.edu.hk
 ##### Google Scholar: <a href="https://scholar.google.com/citations?hl=zh-CN&user=W7QhPeUAAAAJ">Dr. Bing Wang</a>
 
 <div align="justify">
 <br/><br/>
-Dr Bing Wang received the DPhil degree from the Department of Computer Science, University of Oxford, Oxford, U.K., in 2022. He is an Assistant Professor in robotics and autonomous systems with the Department of Aeronautics and Aviation Engineering, The Hong Kong Polytechnic University, Hong Kong. His research interests include forefront of spatial intelligence, a dynamic field focused on advancing human-level 3-D spatial perception and world understanding for mobile robotics, and enhance the reliability, intelligence, and security of intelligent machines in real-world environments.
+<a href="https://bingcs.github.io/">Dr. Bing Wang</a> is an Assistant Professor in Robotics and Autonomous Systems in the Department of Aeronautical and Aviation Engineering at The Hong Kong Polytechnic University (PolyU). Before joining PolyU, he was recognized as a “TopMinds (天才少年)” researcher at Huawei, where he led a team in the Optical Product Line developing advanced solutions for autonomous driving and AR-HUD. Dr. Wang received his DPhil in Computer Science from the University of Oxford under the supervision of Prof. Niki Trigoni and Prof. Andrew Markham. Prior to Oxford, he was supervised by Prof. Qingquan Li in Spatial Information. His research focuses on Spatial Intelligence, advancing human-level spatial perception and world understanding on mobile robotic platforms such as drones, ground robots, and underwater vehicles. His work targets robust and efficient spatial-perception solutions that improve the reliability, intelligence, and safety of intelligent machines in real-world settings. Core directions include multimodal learning, 3D reconstruction, scene understanding, and context reasoning.
 </div>
