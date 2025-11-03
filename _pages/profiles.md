@@ -14,11 +14,6 @@ profiles:
     image: ppl/cywen.jpg
     content: ppl_pages/cywen.md
     image_circular: true
-
-  - align: left
-    image: ppl/by.jpg
-    content: ppl_pages/boyang.md
-    image_circular: true
     
   - align: left
     image: ppl/bing.jpg
@@ -30,6 +25,11 @@ profiles:
     content: ppl_pages/tianqi.md
     image_circular: true
 
+  - align: left
+    image: ppl/by.jpg
+    content: ppl_pages/boyang.md
+    image_circular: true
+    
   - align: left
     image: ppl/kangliu.png
     content: ppl_pages/kangliu.md
