@@ -149,7 +149,7 @@ alumnus:
     image_circular: true
 
   - align: left
-    image: ppl/chenhan.png
+    image: ppl/chenhan.jpg
     content: ppl_pages/chenhan.md
     image_circular: true 
 
@@ -159,9 +159,14 @@ alumnus:
     image_circular: true 
 
   - align: left
+    image: ppl/yurong.jpg
+    content: ppl_pages/yurong.md
+    image_circular: true 
+  
+  - align: left
     image: ppl/qianyu.png
     content: ppl_pages/qianyu.md
-    image_circular: true 
+    image_circular: true
 
   - align: left
     image: ppl/weifeng.jpg
@@ -171,11 +176,6 @@ alumnus:
   - align: left
     image: ppl/shenyang.jpg
     content: ppl_pages/shenyang.md
-    image_circular: true 
-
-  - align: left
-    image: ppl/yurong.jpg
-    content: ppl_pages/yurong.md
     image_circular: true 
 
   - align: left
