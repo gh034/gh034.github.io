@@ -1,11 +1,8 @@
-## Yuzhou Li
-##### BEng, University of Alberta
+## Yuzhou Li (李煜洲)
+##### PhD Student (May 2025 -- Present)
+##### Email: yuzhou5.li@connect.polyu.hk
+<!-- ##### BEng, University of Alberta -->
 
 <div align="justify">
-<br/>MPhil Student
 <br/><br/>
-Sep 2024 - Present
-<br/><br/>
-Research Interest: <br/>
-Aerial Manipulation
 </div>
