@@ -1,5 +1,5 @@
 ## Ho Wang Tong Canning (唐灝弘)
-##### PhD Candidate
+##### PhD Candidate (Sept. 2021 -- Present)
 ##### Email: canning.tong@connect.polyu.hk
 <!-- ##### BEng, The Hong Kong Polytechnic University (HKPolyU) -->
 
