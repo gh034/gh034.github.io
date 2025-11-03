@@ -1,4 +1,4 @@
-## Prof. Chih-Yung Wen
+## Prof. Chih-Yung Wen (溫志湧)
 ##### <strong>Leader of AIRO Lab</strong>
 ##### Chair Professor of AAE
 ##### Director of Research Centre for Unmanned Autonomous System (RCUAS)
