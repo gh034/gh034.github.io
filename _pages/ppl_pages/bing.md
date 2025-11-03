@@ -1,8 +1,7 @@
 ## Dr. Bing Wang (王冰)
 ##### Assistant Professor
 ##### Email: bingwang@polyu.edu.hk
-<!-- ##### BEng, Shenzhen University (SZU) -->
-<!-- ##### DPhil, Oxford University -->
+##### Google Scholar: <a href="https://scholar.google.com/citations?hl=zh-CN&user=W7QhPeUAAAAJ">Dr. Bing Wang</a>
 
 <div align="justify">
 <br/><br/>

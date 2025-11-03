@@ -29,15 +29,15 @@ profiles:
     image: ppl/tianqi.png
     content: ppl_pages/tianqi.md
     image_circular: true
-  
-  - align: left
-    image: ppl/liyu.png
-    content: ppl_pages/liyu.md
-    image_circular: true
-  
+
   - align: left
     image: ppl/kangliu.png
     content: ppl_pages/kangliu.md
+    image_circular: true
+
+  - align: left
+    image: ppl/liyu.png
+    content: ppl_pages/liyu.md
     image_circular: true
 
   - align: left

@@ -1,8 +1,7 @@
 ## Dr. Kang Liu (刘康)
 ##### PostDoc Fellow Researcher
 ##### Email: kang1.liu@polyu.edu.hk
-<!-- ##### BEng, Donghua University (DHU) -->
-<!-- ##### PhD, University of Science and Technology of China (USTC) -->
+##### Google Scholar: <a href="https://scholar.google.com/citations?hl=zh-CN&user=3-t5KAoAAAAJ">Dr. Kang Liu</a>
 
 <div align="justify">
 <!-- <br/>PostDoc Researcher -->
