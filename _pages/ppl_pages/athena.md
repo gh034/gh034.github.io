@@ -1,6 +1,8 @@
 ## Hiu Ching Cheung Athena (張曉晴)
-<!-- ##### BEng, The Hong Kong Polytechnic University (HKPolyU) -->
+##### Junior Research Assistant of CUHK
+##### Email: hcheung6@asu.edu, hiuchingcheung@cuhk.edu.hk 
 
 <div align="justify">
 <br/><br/>
+Athena received her B.Eng. degree in Mechanical Engineering from The Hong Kong Polytechnic University in 2022 and her MPhil degree in Aeronautical and Aviation Engineering from the same university in 2025, focusing on soft robotics and unmanned aerial systems. She is currently a Junior Research Assistant at The Chinese University of Hong Kong (CUHK). In Spring 2026, she will join Arizona State University as a Ph.D. student, where her research will focus on robotic manipulation in surgical robotics.
 </div>

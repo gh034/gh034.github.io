@@ -134,7 +134,7 @@ alumnus:
     image_circular: true
   
   - align: left
-    image: ppl/athena.png
+    image: ppl/athena.jpg
     content: ppl_pages/athena.md
     image_circular: true
 
