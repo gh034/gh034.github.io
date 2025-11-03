@@ -47,6 +47,11 @@ profiles:
 
 students:
   - align: left
+    image: ppl/canning.jpg
+    content: ppl_pages/canning.md
+    image_circular: true
+
+  - align: left
     image: ppl/wenyu.jpg
     content: ppl_pages/wenyu.md
     image_circular: true
@@ -59,11 +64,6 @@ students:
   - align: left
     image: ppl/tao.png
     content: ppl_pages/tao.md
-    image_circular: true
-
-  - align: left
-    image: ppl/canning.jpg
-    content: ppl_pages/canning.md
     image_circular: true
 
   - align: left
