@@ -1,4 +1,4 @@
-## Yuzhou Li (李煜洲)
+## Yuzhou Li (李昱洲)
 ##### PhD Student (Sept. 2025 -- Present)
 ##### Email: yuzhou5.li@connect.polyu.hk
 <!-- ##### BEng, University of Alberta -->

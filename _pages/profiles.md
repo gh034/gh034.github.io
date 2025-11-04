@@ -169,6 +169,11 @@ alumnus:
     image_circular: true
 
   - align: left
+    image: ppl/zhangjinwei.png
+    content: ppl_pages/zhangjinwei.md
+    image_circular: true
+
+  - align: left
     image: ppl/weifeng.jpg
     content: ppl_pages/weifeng.md
     image_circular: true 
