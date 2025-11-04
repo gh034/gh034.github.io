@@ -149,6 +149,11 @@ alumnus:
     image_circular: true
 
   - align: left
+    image: ppl/lifanyi.jpg
+    content: ppl_pages/lifanyi.md
+    image_circular: true
+
+  - align: left
     image: ppl/chenhan.jpg
     content: ppl_pages/chenhan.md
     image_circular: true 
@@ -162,14 +167,19 @@ alumnus:
     image: ppl/yurong.jpg
     content: ppl_pages/yurong.md
     image_circular: true 
-  
+
+  - align: left
+    image: ppl/haha.png
+    content: ppl_pages/luohaojun.md
+    image_circular: true 
+
   - align: left
     image: ppl/qianyu.png
     content: ppl_pages/qianyu.md
     image_circular: true
 
   - align: left
-    image: ppl/zhangjinwei.png
+    image: ppl/haha.png
     content: ppl_pages/zhangjinwei.md
     image_circular: true
 
