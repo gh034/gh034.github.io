@@ -169,7 +169,7 @@ alumnus:
     image_circular: true 
 
   - align: left
-    image: ppl/haha.png
+    image: ppl/luohaojun.jpg
     content: ppl_pages/luohaojun.md
     image_circular: true 
 
