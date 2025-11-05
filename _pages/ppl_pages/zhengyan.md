@@ -1,6 +1,7 @@
 ## Zhengyan Zhang (张峥岩)
 ##### PhD Candidate (Jan 2024 -- Present)
 ##### Email: 23123004r@connect.polyu.hk
+##### Google Scholar: <a href="https://scholar.google.com/citations?hl=zh-CN&user=WZdQAz4AAAAJ">Zhengyan Zhang</a>
 
 <div align="justify">
 <br/><br/>
