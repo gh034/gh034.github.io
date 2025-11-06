@@ -1,6 +1,6 @@
 ## Yurong Feng (冯毓榕)
 ##### PhD Student of Xi'an Jiaotong University
-##### Email: yurong.feng@connect.polyu.hk
+##### Email: <a href="mailto:yurong.feng@connect.polyu.hk">yurong.feng@connect.polyu.hk</a>
 
 <div align="justify">
 MSC Thesis: <a href="https://theses.lib.polyu.edu.hk/handle/200/10798">A real-time object inspection system for unmanned aerial vehicles</a>

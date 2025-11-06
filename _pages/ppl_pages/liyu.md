@@ -1,9 +1,6 @@
 ## Dr. Yu Li (李煜)
 ##### Postdoc Fellow Researcher
-##### Email: yu-aae.li@polyu.edu.hk
-<!-- ##### BEng, Northwestern Polytechnical University (NPU)
-##### MSc, Northwestern Polytechnical University (NPU)
-##### PhD, Northwestern Polytechnical University (NPU) -->
+##### Email: <a href="mailto:yu-aae.li@polyu.edu.hk">yu-aae.li@polyu.edu.hk</a>
 
 <div align="justify">
 <!-- <br/>PostDoc Researcher -->

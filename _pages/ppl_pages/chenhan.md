@@ -1,6 +1,6 @@
 ## Dr. Han Chen (陈汉)
 ##### Associate Profreesor of NPU
-##### Email: chenhan@nwpu.edu.cn
+##### Email: <a href="mailto:chenhan@nwpu.edu.cn">chenhan@nwpu.edu.cn</a>
 ##### Github: <a href="https://chenhanpolyu.github.io/">Dr. Han Chen</a>
 
 <div align="justify">

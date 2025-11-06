@@ -1,6 +1,6 @@
 ## Dr. Ran Duan (段然)
 ##### Research Assistant Professor of HK PolyU(External collaborator)
-##### Email: rduan@polyu.edu.hk
+##### Email: <a href="mailto:rduan@polyu.edu.hk">rduan@polyu.edu.hk</a>
 ##### Google Scholar: <a href="https://scholar.google.com/citations?user=i3XEo1gAAAAJ&hl=en">Dr. Ran Duan</a>
 
 <div align="justify">

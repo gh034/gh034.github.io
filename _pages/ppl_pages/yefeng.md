@@ -1,6 +1,6 @@
 ## Yefeng Yang (杨烨峰)
 ##### Postdoc Fellow Researcher
-##### Email: yefeng.yang@connect.polyu.hk
+##### Email: <a href="mailto:yefeng.yang@connect.polyu.hk">yefeng.yang@connect.polyu.hk</a>
 <!-- ##### BEng, Harbin Institute of Technology (HIT) -->
 <!-- ##### PhD, The Hong Kong Polytechnic University (Dual-PhD with HIT) -->
 

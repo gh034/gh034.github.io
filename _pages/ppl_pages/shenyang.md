@@ -1,6 +1,6 @@
 ## Dr. Shenyang Chen
 ##### Research Engineer of Huawei
-##### Email: shengyangchen@huawei.com
+##### Email: <a href="mailto:shengyangchen@huawei.com">shengyangchen@huawei.com</a>
 
 <div align="justify">
 PhD Thesis: <a href="https://theses.lib.polyu.edu.hk/handle/200/11225">Vision based localization and mapping for UAV navigation</a>

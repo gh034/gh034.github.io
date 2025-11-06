@@ -1,6 +1,6 @@
 ## Fanyi Li (李凡一)
 ##### Engineer of Hong Kong Airlines
-##### Email: ace0lee@gmail.com
+##### Email: <a href="mailto:ace0lee@gmail.com">ace0lee@gmail.com</a>
 
 <div align="justify">
 M.Sc. Thesis: <a href="">Design, modeling,and optimizing High-level control of a quadrotor UAV</a>

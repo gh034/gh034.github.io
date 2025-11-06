@@ -1,6 +1,6 @@
 ## Haochen Hu (胡昊琛)
 ##### PhD Candidate (May 2023 -- Present)
-##### Email: haru-haochen.hu@connect.polyu.hk
+##### Email: <a href="mailto:haru-haochen.hu@connect.polyu.hk">haru-haochen.hu@connect.polyu.hk</a>
 <!-- ##### BEng, Nanjing University of Aeronautics and Astronautics (NUAA)
 ##### MSc, The Hong Kong Polytechnic University (HKPolyU) -->
 

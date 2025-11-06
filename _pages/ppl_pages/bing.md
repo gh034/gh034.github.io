@@ -1,6 +1,7 @@
 ## Dr. Bing Wang (王冰)
 ##### Assistant Professor in Robotics and Autonomous Systems
-##### Email: bingwang@polyu.edu.hk
+##### Email: <a href="mailto:bingwang@polyu.edu.hk">bingwang@polyu.edu.hk</a>
+
 ##### Google Scholar: <a href="https://scholar.google.com/citations?hl=zh-CN&user=W7QhPeUAAAAJ">Dr. Bing Wang</a>
 
 <div align="justify">

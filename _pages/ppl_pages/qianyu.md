@@ -1,6 +1,6 @@
 ## Qianyu Zhou (周倩羽)
 ##### PhD Candidate of CEE, HKUST
-##### Email: qzhouap@connect.ust.hk
+##### Email: <a href="mailto:qzhouap@connect.ust.hk">qzhouap@connect.ust.hk</a>
 
 <div align="justify">
 M.Sc. Thesis: <a href="https://theses.lib.polyu.edu.hk/handle/200/11471">Conceptual design and analysis of a tail-sitter unmanned aerial vehicle (UAV)</a>

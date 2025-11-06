@@ -1,6 +1,6 @@
 ## Jiubo Huang (黄九波)
 ##### MPhil Student (Sept. 2025 -- Present)
-##### Email: 24152933r@connect.polyu.hk
+##### Email: <a href="mailto:24152933r@connect.polyu.hk">24152933r@connect.polyu.hk</a>
 
 <div align="justify">
 <br/><br/>

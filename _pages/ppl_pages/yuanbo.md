@@ -1,6 +1,6 @@
 ## Yuanbo Xue (薛远博)
 ##### PhD Candidate (Sept. 2023 -- Present)
-##### Email: yuanbo.xue@connect.polyu.hk
+##### Email: <a href="mailto:yuanbo.xue@connect.polyu.hk">yuanbo.xue@connect.polyu.hk</a>
 <!-- ##### BEng, Nanjing University of Aeronautics and Astronautics (NUAA) -->
 <!-- ##### MSc, Beihang -->
 
