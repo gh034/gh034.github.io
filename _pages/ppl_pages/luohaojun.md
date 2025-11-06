@@ -1,6 +1,6 @@
 ## Haojun Luo (骆浩俊)
 ##### PhD Student of CEE, HKUST
-##### Email: 21052244g@connect.polyu.hk
+##### Email: <a href="mailto:21052244g@connect.polyu.hk">21052244g@connect.polyu.hk</a>
 
 <div align="justify">
 M.Sc. Thesis: <a href="https://theses.lib.polyu.edu.hk/handle/200/12993">A low-cost relative positioning method for UAV/UGV coordinated heterogeneous system based on visual-lidar fusion

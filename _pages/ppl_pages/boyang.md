@@ -1,6 +1,6 @@
 ## Dr. Boyang Li (李博扬)
 ##### Lecturer, University of Newcastle (External collaborator)
-##### Email: boyang.li@newcastle.edu.au
+##### Email: <a href="mailto:boyang.li@newcastle.edu.au">boyang.li@newcastle.edu.au</a>
 ##### Google Sholar: <a href="https://scholar.google.com/citations?hl=zh-CN&user=a-W1DTIAAAAJ">Dr.Boyang Li</a>
 
 <div align="justify">

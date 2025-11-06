@@ -1,7 +1,7 @@
 ## Zheng Tan (谈政)
 ##### PhD Candidate (Dual-PhD with NPU, Jan 2024 -- Present)
-##### Email: zheng-uav.tan@connect.polyu.hk
-<!-- ##### MSc, Civil Aviation University of China (CAUC) -->
+##### Email: <a href="mailto:zheng-uav.tan@connect.polyu.hk">zheng-uav.tan@connect.polyu.hk</a>
+
 
 <div align="justify">
 <!-- <br/>PhD Candidate (NPU HKPolyU Dual-PhD) -->

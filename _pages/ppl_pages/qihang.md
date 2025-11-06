@@ -1,6 +1,6 @@
 ## Qihang Peng (彭启航)
 ##### PhD Candidate (Sept. 2022 -- Present)
-##### Email: qihang1.peng@connect.polyu.hk
+##### Email: <a href="mailto:qihang1.peng@connect.polyu.hk">qihang1.peng@connect.polyu.hk</a>
 <!-- ##### BEng, University of Electronic Science and Technology of China (UESTC) -->
 <!-- ##### MSc, University of South California (USC) -->
 

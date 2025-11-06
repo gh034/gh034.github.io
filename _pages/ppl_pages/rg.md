@@ -1,6 +1,6 @@
 ## Rugang Tang (汤汝刚)
 ##### PhD Candidate (Dual-PhD with NPU, Jan 2024 -- Present)
-##### Email: rg-polyu.tang@connect.polyu.hk
+##### Email: <a href="mailto:rg-polyu.tang@connect.polyu.hk">rg-polyu.tang@connect.polyu.hk</a>
 <!-- ##### BEng, Northwestern Polytechnical University (NPU) -->
 
 <div align="justify">

@@ -1,6 +1,6 @@
 ## Dr. Tianqi Wang (王天奇)
 ##### Research Assistant Professor
-##### Email: tianqi-aae.wang@polyu.edu.hk
+##### Email: <a href="mailto:tianqi-aae.wang@polyu.edu.hk">tianqi-aae.wang@polyu.edu.hk</a>
 ##### Google Scholar: <a href="https://scholar.google.com/citations?hl=zh-CN&user=lte17QsAAAAJ">Dr. Tianqi Wang</a>
 
 <div align="justify">

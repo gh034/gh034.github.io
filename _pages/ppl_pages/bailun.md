@@ -1,8 +1,7 @@
 ## Bailun Jiang (姜百伦)
 ##### Postdoc of HKCRC
-##### Email: bailun-robin.jiang@connect.polyu.hk
-<!-- ##### BEng, The Hong Kong Polytechnic University (HKPolyU) -->
-<!-- ##### MSc, The Hong Kong Polytechnic University (HKPolyU) -->
+##### Email: <a href="mailto:bailun-robin.jiang@connect.polyu.hk">bailun-robin.jiang@connect.polyu.hk</a>
+
 
 <div align="justify">
 PhD Thesis: <a href="https://ira.lib.polyu.edu.hk/handle/10397/114663">Advanced model predictive control for trajectory tracking of mobile robots with complex dynamics

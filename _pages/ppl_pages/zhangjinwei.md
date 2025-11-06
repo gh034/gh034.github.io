@@ -1,6 +1,6 @@
 ## Chang Ching-Wei (張晉瑋)
 ##### Senior Researcher of HKCRC
-##### Email: ccw@ust.hk
+##### Email: <a href="mailto:ccw@ust.hk">ccw@ust.hk</a>
 
 <div align="justify">
 MPhil Thesis: <a href="https://theses.lib.polyu.edu.hk/handle/200/13623">Design and control of a soft aerial vehicle for conducting aerial grasping</a>

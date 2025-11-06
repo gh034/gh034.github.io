@@ -4,7 +4,7 @@
 ##### Director of Research Centre for Unmanned Autonomous System (RCUAS)
 ##### Core Member of Research Centre for Low Altitude Economy (RCLAE)
 <!-- ##### Associate Director of Research Institute for Sports Science and Technology -->
-##### Email: cywen@polyu.edu.hk
+##### Email: <a href="mailto:cywen@polyu.edu.hk">cywen@polyu.edu.hk</a>
 ##### Google Scholar: <a href="https://scholar.google.com/citations?hl=zh-CN&user=_2T_2AoAAAAJ&view_op=list_works">Prof. Chih-Yung Wen</a>
 
 <div align="justify">

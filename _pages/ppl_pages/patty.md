@@ -1,7 +1,6 @@
 ## Patrick Li-Yu Lo (羅立宇)
 ##### PhD Student of Duke University
-##### Email: patrick.lo@duke.edu
-<!-- ##### BEng, The Hong Kong Polytechnic University (HKPolyU) -->
+##### Email: <a href="mailto:patrick.lo@duke.edu">patrick.lo@duke.edu</a>
 
 <div align="justify">
 MPhil Thesis: <a href="https://theses.lib.polyu.edu.hk/handle/200/13714">On improving the adaptability of controllers and estimators for mobile robots in challenging operational conditions

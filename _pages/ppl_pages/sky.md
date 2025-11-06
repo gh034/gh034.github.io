@@ -1,6 +1,6 @@
 ## Tse Kwai Wa Sky (謝桂華)
 ##### Robotics Technical Specialist of CRADLE
-##### Email: kwaiwa-tse@connect.polyu.hk
+##### Email: <a href="mailto:kwaiwa-tse@connect.polyu.hk">kwaiwa-tse@connect.polyu.hk</a>
 ##### Google Scholar: <a href="https://scholar.google.com/citations?hl=en&user=xd0C0a8AAAAJ">Dr. Tse Kwai Wa Sky</a>
 
 <div align="justify">

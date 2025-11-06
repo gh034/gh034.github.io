@@ -1,6 +1,6 @@
 ## Hiu Ching Cheung Athena (張曉晴)
 ##### Junior Research Assistant of CUHK
-##### Email: hcheung6@asu.edu, hiuchingcheung@cuhk.edu.hk 
+##### Email: <a href="mailto:hcheung6@asu.edu">hcheung6@asu.edu</a>; <a href="mailto:hiuchingcheung@cuhk.edu.hk">hiuchingcheung@cuhk.edu.hk</a> 
 
 <div align="justify">
 MPhil Thesis: <a href="https://theses.lib.polyu.edu.hk/handle/200/13623">Design and control of a soft aerial vehicle for conducting aerial grasping</a>

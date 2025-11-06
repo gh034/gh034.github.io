@@ -1,6 +1,6 @@
 ## Tao Huang (黄涛)
 ##### PhD Candidate (Dual-PhD with HIT, Sept. 2022 -- present)
-##### Email: tao755.huang@connect.polyu.hk
+##### Email: <a href="mailto:tao755.huang@connect.polyu.hk">tao755.huang@connect.polyu.hk</a>
 
 <div align="justify">
 <br/><br/>

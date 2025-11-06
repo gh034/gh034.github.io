@@ -1,6 +1,6 @@
 ## Yang Hu (胡杨)
 ##### PhD Student of University College London
-##### Email: yang.hu.24@ucl.ac.uk
+##### Email: <a href="mailto:yang-h.hu@connect.polyu.hk">yang-h.hu@connect.polyu.hk</a>; <a href="mailto:yang.hu.24@ucl.ac.uk">yang.hu.24@ucl.ac.uk</a>
 <!-- ##### BEng, University of Sydney -->
 
 <div align="justify">

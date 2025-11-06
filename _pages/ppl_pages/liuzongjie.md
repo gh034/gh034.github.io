@@ -1,6 +1,6 @@
 ## Zongjie Liu (刘宗杰)
 ##### PhD student (Jan. 2026 -- Present)
-##### Email: liuzongjie001@gmail.com
+##### Email: <a href="mailto:liuzongjie001@gmail.com">liuzongjie001@gmail.com</a>
 
 <div align="justify">
 <br/><br/>

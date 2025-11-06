@@ -1,8 +1,7 @@
 ## Wenyu Yang (杨雯语)
 ##### PhD Candidate (Sept. 2022 -- Present)
-##### Email: wenyu.yang@connect.polyu.hk
-<!-- ##### BEng, Ocean University of China (OUC)
-##### Msc, Harbin Institute of Technology (HIT) -->
+##### Email: <a href="mailto:wenyu.yang@connect.polyu.hk">wenyu.yang@connect.polyu.hk</a>
+
 
 <div align="justify">
 <br/><br/>
