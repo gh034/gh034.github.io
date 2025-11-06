@@ -1,6 +1,6 @@
 ## Bailun Jiang (姜百伦)
-##### Engineer of HKCRC
-##### Email: 
+##### Postdoc of HKCRC
+##### Email: bailun-robin.jiang@connect.polyu.hk
 <!-- ##### BEng, The Hong Kong Polytechnic University (HKPolyU) -->
 <!-- ##### MSc, The Hong Kong Polytechnic University (HKPolyU) -->
 
@@ -8,5 +8,5 @@
 PhD Thesis: <a href="https://ira.lib.polyu.edu.hk/handle/10397/114663">Advanced model predictive control for trajectory tracking of mobile robots with complex dynamics
 </a>
 <br/><br/>
-Dr. Bailun Jiang is very handsome, but his information is not updated.
+Dr. Jiang received his BEng and MSc in Mechanical Engineering from The Hong Kong Polytechnic University in 2017 and 2020, and PhD degree in Aeronautical and Aviation Engineering from The Hong Kong Polytechnic University in 2024. He is currently a post-doctoral researcher in Hong Kong Center for Construction Robotics (HKCRC). His research interests include model predictive control, deep learning, and path planning of mobile robots.
 </div>
