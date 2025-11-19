@@ -26,13 +26,13 @@ profiles:
     image_circular: true
 
   - align: left
-    image: ppl/by.jpg
-    content: ppl_pages/boyang.md
-    image_circular: true
-    
-  - align: left
     image: ppl/kangliu.png
     content: ppl_pages/kangliu.md
+    image_circular: true
+
+  - align: left
+    image: ppl/by.jpg
+    content: ppl_pages/boyang.md
     image_circular: true
 
   - align: left
